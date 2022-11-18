@@ -3,7 +3,7 @@
 I'm a fullstack web developer building digital products using Lean Design principles.
 </p>
 <p align="center"> 
-When I'm not coding find me taking photos or trying to jump out of the nearest plane.
+When I'm not coding find me talking about the development technologies on the below platforms.
 </p>
 
  [![Linkedin Badge](https://img.shields.io/badge/-jitendra-fff?style=social-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jitendrasaini/)](https://www.linkedin.com/in/jitendrasaini/) 
