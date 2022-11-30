@@ -8,4 +8,4 @@ When I'm not coding find me talking about the development technologies on the be
 
  [![Linkedin Badge](https://img.shields.io/badge/-jitendra-fff?style=social-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jitendrasaini/)](https://www.linkedin.com/in/jitendrasaini/) 
   [![Twitter Badge](https://img.shields.io/badge/-jitendra-fff?style=social-square&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/Jitencodes/)](https://www.linkedin.com/in/jitendrasaini/)
-  [![Reddit Badge](https://img.shields.io/badge/-u/TheJitendCodes-fff?style=social-square&logo=Reddit&link=https://www.reddit.com/user/TheJitenCodes//)](https://www.reddit.com/user/TheJitenCodes/)
+  [![Reddit Badge](https://img.shields.io/badge/-u/TheJitenCodes-fff?style=social-square&logo=Reddit&link=https://www.reddit.com/user/TheJitenCodes//)](https://www.reddit.com/user/TheJitenCodes/)
