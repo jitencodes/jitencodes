@@ -9,9 +9,8 @@
 <h3>✨About Me</h3>
 🏢 I'm currently working as a software developer </br>
 ⚙️ I use daily: .js, .html, .css, .svg, .psd.</br>
-🌍 I'm mostly active within the Laravel </br>
+🌍 I'm mostly active within the Mern Stack </br>
 🌱 Learning all about Open Source</br>
-💬 Ping me about design, web development, JavaScript, React, CSS, Blockchain, web3, cryptocurrency etc.</br>
 ⚡️ Fun fact: I'm a huge fan Keyboard shortcuts and darkmode.</br>
 
 <h3>My Tech Stack</h3>
