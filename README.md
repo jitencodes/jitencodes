@@ -11,7 +11,7 @@
 ⚙️ I use daily: .js, .html, .css, .svg, .psd.</br>
 🌍 I'm mostly active within the Mern Stack </br>
 🌱 Learning all about Open Source</br>
-⚡️ Fun fact: I'm a huge fan Keyboard shortcuts and darkmode.</br>
+⚡️ Fun fact: I'm a huge fan of Keyboard shortcuts and darkmode.</br>
 
 <h3>My Tech Stack</h3>
  <div style="display: flex; justify-content: space-between;">
